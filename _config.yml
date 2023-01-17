@@ -42,7 +42,8 @@ author: Munyaka
 #
 copyright: "Unpublished Work-{currentYear} {author}"
 
-description: It has been God from day one. He showed me how to win and my hardwork has not been in vain. LEARN HOW TO WIN FROM ME.
+description:>- #This means to ignore newlines until "base url:" 
+It has been God from day one. He showed me how to win and my hardwork has not been in vain. LEARN HOW TO WIN FROM ME.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
