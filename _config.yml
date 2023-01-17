@@ -40,7 +40,7 @@ author: Munyaka
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work-{currentYear} {author}"
 
 description: It has been God from day one. He showed me how to win and my hardwork has not been in vain. LEARN HOW TO WIN FROM ME.
 baseurl: "" # the subpath of your site, e.g. /blog
